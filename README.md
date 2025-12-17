@@ -1,6 +1,6 @@
-% Data: Dynamics of Efficient Ensemble Coding
-% Long Ni and Alan A Stocker
-% 12/17/2025
+Dynamics of Efficient Ensemble Coding - Data
+
+Long Ni and Alan A Stocker
 
 The data structure contains five sub-fields, specifying discrimination response (dat.resp), ensemble orientations relative to the reference (dat.smSet), generative means of the sampling distributions (dat.cnd), and inter-stimulus interval (dat.isi) on each trial. 
 
