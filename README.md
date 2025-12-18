@@ -6,3 +6,6 @@ MATLAB data structure - The structure contains five sub-fields, specifying discr
 
 Each sub-field contains 5 (ISI conditions)* 9 (subjects) cells. 
 The five inter-stimulus interval conditions are [-900, -450), [-450,0), 0, (0 450], (450, 900] ms. 
+
+
+The code for implementing Efficient Ensemble coding is under the folder 'model'. 
